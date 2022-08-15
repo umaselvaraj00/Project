@@ -1,0 +1,17 @@
+.app{
+    list-style: none;
+    background-color: rgb(143, 179, 188);
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+.nty{
+    list-style: none;
+}
+.qty{
+    text-shadow: 1px;
+    text-size-adjust: 1px;
+}
+.prc{
+    font-family: 'Times New Roman', Times, serif;
+
+}
